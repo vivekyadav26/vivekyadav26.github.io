@@ -1,0 +1,242 @@
+[
+  {
+    "objectID": "research/llms-in-tdm/index.html",
+    "href": "research/llms-in-tdm/index.html",
+    "title": "30 Days of LLMs in Travel Demand Modeling",
+    "section": "",
+    "text": "Skip to main content",
+    "crumbs": [
+      "30 Days of LLMs in Travel Demand Modeling"
+    ]
+  },
+  {
+    "objectID": "research/llms-in-tdm/index.html#progress-and-entries",
+    "href": "research/llms-in-tdm/index.html#progress-and-entries",
+    "title": "30 Days of LLMs in Travel Demand Modeling",
+    "section": "Progress and entries",
+    "text": "Progress and entries\n\n\n\n  0 of 30 entries published\n  \n    \n  \n\n\n\n\n  \n    \n      Day 00\n      Nov 25, 2026\n      Perspective\n      1 min read\n    \n    Day 00: Why 30 Days of LLMs in Travel Demand Modeling?\n    In progress.\n    \n  \n\n\nNo matching items",
+    "crumbs": [
+      "30 Days of LLMs in Travel Demand Modeling"
+    ]
+  },
+  {
+    "objectID": "research/llms-in-tdm/day-00/index.html",
+    "href": "research/llms-in-tdm/day-00/index.html",
+    "title": "Day 00: Why 30 Days of LLMs in Travel Demand Modeling?",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\nDay 00 · 30 Days of LLMs in Travel Demand Modeling · 1 min read\n\nIn progress.",
+    "crumbs": [
+      "Day 00: Why 30 Days of LLMs in Travel Demand Modeling?"
+    ]
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\nProjects marked “Concept” are ideas I intend to explore, not finished work.\n\n\n\n  \n    Status: Concept\n    ABM Calibration Agent\n    Exploring whether an intelligent agent can assist activity-based model calibration by diagnosing gaps against observed targets and proposing adjustments.\n    \n    \n      Research areaModel Calibration and Automation\n      \n    \n    \n    \n  \n\n  \n    Status: Concept\n    LLM Travel Behavior Modeling\n    Investigating whether large language models can represent individual travel decisions in a way that is useful for travel demand modeling.\n    \n    \n      Research areaAI and Travel Behavior\n      \n    \n    \n    \n  \n\n  \n    Status: Concept\n    Virtual Town Simulation\n    A concept for a small synthetic town populated by simulated travelers, as a sandbox for testing new modeling ideas.\n    \n    \n      Research areaUrban Simulation\n      \n    \n    \n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "miles/learn/index.html",
+    "href": "miles/learn/index.html",
+    "title": "Start Learning AI with Miles",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\n\n11 comics in this path. Each one takes a minute or two to read.\n\n\n  \n    1\n    \n      \n      \n        Step 1: \n        Tokens\n        The building blocks of LLMs.\n        AI Fundamentals\n      \n    \n  \n\n  \n    2\n    \n      \n      \n        Step 2: \n        Text Embeddings\n        The secret sauce that turns words into meaningful numbers!\n        AI Fundamentals\n      \n    \n  \n\n  \n    3\n    \n      \n      \n        Step 3: \n        Context Window\n        The model's working memory!\n        AI Fundamentals\n      \n    \n  \n\n  \n    4\n    \n      \n      \n        Step 4: \n        Transformers\n        The game changers behind modern AI!\n        AI Fundamentals\n      \n    \n  \n\n  \n    5\n    \n      \n      \n        Step 5: \n        Temperature\n        The creativity dial for AI answers!\n        Working with LLMs\n      \n    \n  \n\n  \n    6\n    \n      \n      \n        Step 6: \n        Hallucination\n        When AI confidently makes stuff up!\n        Working with LLMs\n      \n    \n  \n\n  \n    7\n    \n      \n      \n        Step 7: \n        Prompt Engineering\n        The secret sauce behind great AI answers!\n        Working with LLMs\n      \n    \n  \n\n  \n    8\n    \n      \n      \n        Step 8: \n        Retrieval Augmented Generation\n        RAG combines the power of search (retrieval) with the power of LLMs (generation).\n        AI Systems and Architecture\n      \n    \n  \n\n  \n    9\n    \n      \n      \n        Step 9: \n        AI Agents\n        Your goals. Their mission.\n        AI Agents and Applications\n      \n    \n  \n\n  \n    10\n    \n      \n      \n        Step 10: \n        Model Context Protocol\n        An open standard that helps AI models connect safely to tools, data, and systems.\n        AI Systems and Architecture\n      \n    \n  \n\n  \n    11\n    \n      \n      \n        Step 11: \n        Vibe Coding\n        Ship first. Understand later.\n        AI Agents and Applications\n      \n    \n  \n\n\n\nNo matching items\n\n← Back to Meet Miles"
+  },
+  {
+    "objectID": "miles/comics/vibe-coding/index.html",
+    "href": "miles/comics/vibe-coding/index.html",
+    "title": "Vibe Coding",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\nMeet MilesComicsVibe Coding\nEpisode 2.1\nVibe Coding\nShip first. Understand later.\nAI Agents and ApplicationsDifficulty: Beginner\n\n\n\n\n(opens the full-resolution artwork in a new tab)\n\nBrainchild of vivekyadav | Explained by Miles · Tap or click the comic to open it at full resolution.\n\n View full size\n Copy link\n Share on LinkedIn\nStep 11 of 11 in Start Learning AI with Miles\n\n\nRelated comics\n\n\n\nEpisode 9 AI Agents and Applications\nAI Agents\nYour goals. Their mission.\n\n\n\n\n\nEpisode 7 Working with LLMs\nPrompt Engineering\nThe secret sauce behind great AI answers!\n\nPrevious · Episode 2Text EmbeddingsAll comicsNext · Episode 3Context Window"
+  },
+  {
+    "objectID": "miles/comics/tokens/index.html",
+    "href": "miles/comics/tokens/index.html",
+    "title": "Tokens",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\nMeet MilesComicsTokens\nEpisode 1\nTokens\nThe building blocks of LLMs.\nAI FundamentalsDifficulty: Beginner\n\n\n\n\n(opens the full-resolution artwork in a new tab)\n\nBrainchild of vivekyadav | Explained by Miles · Tap or click the comic to open it at full resolution.\n\n View full size\n Copy link\n Share on LinkedIn\nStep 1 of 11 in Start Learning AI with Miles · Next: Text Embeddings\n\n\nRelated comics\n\n\n\nEpisode 3 AI Fundamentals\nContext Window\nThe model's working memory!\n\n\n\n\n\nEpisode 2 AI Fundamentals\nText Embeddings\nThe secret sauce that turns words into meaningful numbers!\n\n\n\n\n\nEpisode 8 AI Fundamentals\nTransformers\nThe game changers behind modern AI!\n\nPrevious · Episode 0Meet MilesAll comicsNext · Episode 2Text Embeddings"
+  },
+  {
+    "objectID": "miles/comics/temperature/index.html",
+    "href": "miles/comics/temperature/index.html",
+    "title": "Temperature",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\nMeet MilesComicsTemperature\nEpisode 6\nTemperature\nThe creativity dial for AI answers!\nWorking with LLMsDifficulty: Beginner\n\n\n\n\n(opens the full-resolution artwork in a new tab)\n\nBrainchild of vivekyadav | Explained by Miles · Tap or click the comic to open it at full resolution.\n\n View full size\n Copy link\n Share on LinkedIn\nStep 5 of 11 in Start Learning AI with Miles · Next: Hallucination\n\n\nRelated comics\n\n\n\nEpisode 7 Working with LLMs\nPrompt Engineering\nThe secret sauce behind great AI answers!\n\n\n\n\n\nEpisode 4 Working with LLMs\nHallucination\nWhen AI confidently makes stuff up!\n\nPrevious · Episode 5Retrieval Augmented GenerationAll comicsNext · Episode 7Prompt Engineering"
+  },
+  {
+    "objectID": "miles/comics/prompt-engineering/index.html",
+    "href": "miles/comics/prompt-engineering/index.html",
+    "title": "Prompt Engineering",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\nMeet MilesComicsPrompt Engineering\nEpisode 7\nPrompt Engineering\nThe secret sauce behind great AI answers!\nWorking with LLMsDifficulty: Beginner\n\n\n\n\n(opens the full-resolution artwork in a new tab)\n\nBrainchild of vivekyadav | Explained by Miles · Tap or click the comic to open it at full resolution.\n\n View full size\n Copy link\n Share on LinkedIn\nStep 7 of 11 in Start Learning AI with Miles · Next: Retrieval Augmented Generation\n\n\nRelated comics\n\n\n\nEpisode 6 Working with LLMs\nTemperature\nThe creativity dial for AI answers!\n\n\n\n\n\nEpisode 4 Working with LLMs\nHallucination\nWhen AI confidently makes stuff up!\n\n\n\n\n\nEpisode 2.1 AI Agents and Applications\nVibe Coding\nShip first. Understand later.\n\nPrevious · Episode 6TemperatureAll comicsNext · Episode 8Transformers"
+  },
+  {
+    "objectID": "miles/comics/mcp/index.html",
+    "href": "miles/comics/mcp/index.html",
+    "title": "Model Context Protocol",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\nMeet MilesComicsModel Context Protocol\nEpisode 10\nModel Context Protocol\nAn open standard that helps AI models connect safely to tools, data, and systems.\nAI Systems and ArchitectureDifficulty: Intermediate\n\n\n\n\n(opens the full-resolution artwork in a new tab)\n\nBrainchild of vivekyadav | Explained by Miles · Tap or click the comic to open it at full resolution.\n\n View full size\n Copy link\n Share on LinkedIn\nStep 10 of 11 in Start Learning AI with Miles · Next: Vibe Coding\n\n\nRelated comics\n\n\n\nEpisode 9 AI Agents and Applications\nAI Agents\nYour goals. Their mission.\n\n\n\n\n\nEpisode 5 AI Systems and Architecture\nRetrieval Augmented Generation\nRAG combines the power of search (retrieval) with the power of LLMs (generation).\n\nPrevious · Episode 9AI AgentsAll comics"
+  },
+  {
+    "objectID": "miles/comics/context-window/index.html",
+    "href": "miles/comics/context-window/index.html",
+    "title": "Context Window",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\nMeet MilesComicsContext Window\nEpisode 3\nContext Window\nThe model’s working memory!\nAI FundamentalsDifficulty: Beginner\n\n\n\n\n(opens the full-resolution artwork in a new tab)\n\nBrainchild of vivekyadav | Explained by Miles · Tap or click the comic to open it at full resolution.\n\n View full size\n Copy link\n Share on LinkedIn\nStep 3 of 11 in Start Learning AI with Miles · Next: Transformers\n\n\nRelated comics\n\n\n\nEpisode 1 AI Fundamentals\nTokens\nThe building blocks of LLMs.\n\n\n\n\n\nEpisode 2 AI Fundamentals\nText Embeddings\nThe secret sauce that turns words into meaningful numbers!\n\n\n\n\n\nEpisode 8 AI Fundamentals\nTransformers\nThe game changers behind modern AI!\n\nPrevious · Episode 2.1Vibe CodingAll comicsNext · Episode 4Hallucination"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Vivek Yadav",
+    "section": "Research interests",
+    "text": "Research interests\n\n\nAI and Travel Behavior\nExploring how language models can represent individual travel decisions and human behavior.\n\n\nTravel Demand Modeling\nTrip-based, tour-based, hybrid and activity-based modeling methodologies.\n\n\nModel Calibration and Automation\nExploring intelligent agents, model diagnostics, calibration and validation.\n\n\nUrban Simulation\nSynthetic populations, virtual cities, agent-based simulations and emerging modeling methodologies."
+  },
+  {
+    "objectID": "index.html#recent-notes",
+    "href": "index.html#recent-notes",
+    "title": "Vivek Yadav",
+    "section": "Recent notes",
+    "text": "Recent notes\nAll notes →"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Vivek Yadav",
+    "section": "Projects",
+    "text": "Projects\nAll projects →"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "Skip to main content"
+  },
+  {
+    "objectID": "about/index.html#hi-im-vivek-yadav",
+    "href": "about/index.html#hi-im-vivek-yadav",
+    "title": "About",
+    "section": "Hi, I’m Vivek Yadav",
+    "text": "Hi, I’m Vivek Yadav\nI’m a travel demand modeler at Cambridge Systematics. I build and test models that help planning agencies answer several questions."
+  },
+  {
+    "objectID": "about/index.html#how-i-got-into-this",
+    "href": "about/index.html#how-i-got-into-this",
+    "title": "About",
+    "section": "How I got into this",
+    "text": "How I got into this\n\n\nKochiCivil engineer on a refinery expansion\n\n\nBangaloreStudying how pilgrims moved at the Kumbh Mela, at IISc\n\n\nAtlantaTransportation systems engineering at Georgia Tech\n\n\nTodayTravel demand models, and what LLMs can do for them\n\n\nI started out as a civil engineer working on a refinery expansion in Kochi. I then went to the Indian Institute of Science, Bangalore, where I helped study how people moved around during the Kumbh Mela to understand crowd dynamics. We used survey and GPS data to piece together what pilgrims did during the day: where they went and how long they stayed. From there, I went on to study transportation systems engineering at Georgia Tech.\nThe settings have changed quite a bit since then, but I still like piecing together what people actually do from the data that we have."
+  },
+  {
+    "objectID": "about/index.html#what-i-work-on",
+    "href": "about/index.html#what-i-work-on",
+    "title": "About",
+    "section": "What I work on",
+    "text": "What I work on\nI build and update trip-based, tour-based and activity-based models (ABMs), along with freight and commercial vehicle models. I help planning agencies use these models to understand how people and goods move through a region and how travel might change with new infrastructure, different land use, or changes in policy.\nA lot of my work involves processing survey, traffic count and GPS data, then using that information to calibrate and validate models. I also lead project teams and work with agency staff to decide what questions the model needs to answer."
+  },
+  {
+    "objectID": "about/index.html#what-im-exploring-now",
+    "href": "about/index.html#what-im-exploring-now",
+    "title": "About",
+    "section": "What I’m exploring now",
+    "text": "What I’m exploring now\nI’m spending more time with large language models (LLMs) and what they might do for travel demand modeling. One thing I’m exploring is whether they can help with calibration. When a model run looks off, can an AI tool look at the results and suggest what to check next?\nCould we use LLMs to represent travel decisions in a different way? And what data would we need to know whether it got the choice right? How do we even calibrate or validate them?"
+  },
+  {
+    "objectID": "about/index.html#around-the-site",
+    "href": "about/index.html#around-the-site",
+    "title": "About",
+    "section": "Around the site",
+    "text": "Around the site\n\n\nNotebook\nWhat I’m trying, what surprised me, and what I’m still figuring out.\n\n\nProjects\nThings I’ve built or worked on.\n\n\n\n\nMeet Miles\nMy comic strips. Sometimes a comic is the easiest way to talk through an idea about AI."
+  },
+  {
+    "objectID": "about/index.html#get-in-touch",
+    "href": "about/index.html#get-in-touch",
+    "title": "About",
+    "section": "Get in touch",
+    "text": "Get in touch\nThe best way to reach me is on LinkedIn or GitHub.\n\n LinkedIn  GitHub"
+  },
+  {
+    "objectID": "miles/comics/ai-agents/index.html",
+    "href": "miles/comics/ai-agents/index.html",
+    "title": "AI Agents",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\nMeet MilesComicsAI Agents\nEpisode 9\nAI Agents\nYour goals. Their mission.\nAI Agents and ApplicationsDifficulty: Intermediate\n\n\n\n\n(opens the full-resolution artwork in a new tab)\n\nBrainchild of vivekyadav | Explained by Miles · Tap or click the comic to open it at full resolution.\n\n View full size\n Copy link\n Share on LinkedIn\nStep 9 of 11 in Start Learning AI with Miles · Next: Model Context Protocol\n\n\nRelated comics\n\n\n\nEpisode 10 AI Systems and Architecture\nModel Context Protocol\nAn open standard that helps AI models connect safely to tools, data, and systems.\n\n\n\n\n\nEpisode 2.1 AI Agents and Applications\nVibe Coding\nShip first. Understand later.\n\n\n\n\n\nEpisode 3 AI Fundamentals\nContext Window\nThe model's working memory!\n\nPrevious · Episode 8TransformersAll comicsNext · Episode 10Model Context Protocol"
+  },
+  {
+    "objectID": "miles/comics/hallucination/index.html",
+    "href": "miles/comics/hallucination/index.html",
+    "title": "Hallucination",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\nMeet MilesComicsHallucination\nEpisode 4\nHallucination\nWhen AI confidently makes stuff up!\nWorking with LLMsDifficulty: Beginner\n\n\n\n\n(opens the full-resolution artwork in a new tab)\n\nBrainchild of vivekyadav | Explained by Miles · Tap or click the comic to open it at full resolution.\n\n View full size\n Copy link\n Share on LinkedIn\nStep 6 of 11 in Start Learning AI with Miles · Next: Prompt Engineering\n\n\nRelated comics\n\n\n\nEpisode 6 Working with LLMs\nTemperature\nThe creativity dial for AI answers!\n\n\n\n\n\nEpisode 7 Working with LLMs\nPrompt Engineering\nThe secret sauce behind great AI answers!\n\n\n\n\n\nEpisode 3 AI Fundamentals\nContext Window\nThe model's working memory!\n\nPrevious · Episode 3Context WindowAll comicsNext · Episode 5Retrieval Augmented Generation"
+  },
+  {
+    "objectID": "miles/comics/meet-miles/index.html",
+    "href": "miles/comics/meet-miles/index.html",
+    "title": "Meet Miles",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\nMeet MilesComicsMeet Miles\nEpisode 0\nMeet Miles\nHi there! I’m Miles. Part robot. Part road nerd. 100% data driven.\nGetting StartedDifficulty: Beginner\n\n\n\n\n(opens the full-resolution artwork in a new tab)\n\nBrainchild of vivekyadav | Explained by Miles · Tap or click the comic to open it at full resolution.\n\n View full size\n Copy link\n Share on LinkedIn\n\n\nAll comicsNext · Episode 1Tokens"
+  },
+  {
+    "objectID": "miles/comics/rag/index.html",
+    "href": "miles/comics/rag/index.html",
+    "title": "Retrieval Augmented Generation",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\nMeet MilesComicsRetrieval Augmented Generation\nEpisode 5\nRetrieval Augmented Generation\nRAG combines the power of search (retrieval) with the power of LLMs (generation).\nAI Systems and ArchitectureDifficulty: Intermediate\n\n\n\n\n(opens the full-resolution artwork in a new tab)\n\nBrainchild of vivekyadav | Explained by Miles · Tap or click the comic to open it at full resolution.\n\n View full size\n Copy link\n Share on LinkedIn\nStep 8 of 11 in Start Learning AI with Miles · Next: AI Agents\n\n\nRelated comics\n\n\n\nEpisode 10 AI Systems and Architecture\nModel Context Protocol\nAn open standard that helps AI models connect safely to tools, data, and systems.\n\n\n\n\n\nEpisode 4 Working with LLMs\nHallucination\nWhen AI confidently makes stuff up!\n\n\n\n\n\nEpisode 2 AI Fundamentals\nText Embeddings\nThe secret sauce that turns words into meaningful numbers!\n\nPrevious · Episode 4HallucinationAll comicsNext · Episode 6Temperature"
+  },
+  {
+    "objectID": "miles/comics/text-embeddings/index.html",
+    "href": "miles/comics/text-embeddings/index.html",
+    "title": "Text Embeddings",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\nMeet MilesComicsText Embeddings\nEpisode 2\nText Embeddings\nThe secret sauce that turns words into meaningful numbers!\nAI FundamentalsDifficulty: Beginner\n\n\n\n\n(opens the full-resolution artwork in a new tab)\n\nBrainchild of vivekyadav | Explained by Miles · Tap or click the comic to open it at full resolution.\n\n View full size\n Copy link\n Share on LinkedIn\nStep 2 of 11 in Start Learning AI with Miles · Next: Context Window\n\n\nRelated comics\n\n\n\nEpisode 3 AI Fundamentals\nContext Window\nThe model's working memory!\n\n\n\n\n\nEpisode 1 AI Fundamentals\nTokens\nThe building blocks of LLMs.\n\n\n\n\n\nEpisode 8 AI Fundamentals\nTransformers\nThe game changers behind modern AI!\n\nPrevious · Episode 1TokensAll comicsNext · Episode 2.1Vibe Coding"
+  },
+  {
+    "objectID": "miles/comics/transformers/index.html",
+    "href": "miles/comics/transformers/index.html",
+    "title": "Transformers",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\nMeet MilesComicsTransformers\nEpisode 8\nTransformers\nThe game changers behind modern AI!\nAI FundamentalsDifficulty: Intermediate\n\n\n\n\n(opens the full-resolution artwork in a new tab)\n\nBrainchild of vivekyadav | Explained by Miles · Tap or click the comic to open it at full resolution.\n\n View full size\n Copy link\n Share on LinkedIn\nStep 4 of 11 in Start Learning AI with Miles · Next: Temperature\n\n\nRelated comics\n\n\n\nEpisode 3 AI Fundamentals\nContext Window\nThe model's working memory!\n\n\n\n\n\nEpisode 2 AI Fundamentals\nText Embeddings\nThe secret sauce that turns words into meaningful numbers!\n\n\n\n\n\nEpisode 1 AI Fundamentals\nTokens\nThe building blocks of LLMs.\n\nPrevious · Episode 7Prompt EngineeringAll comicsNext · Episode 9AI Agents"
+  },
+  {
+    "objectID": "miles/index.html#latest-comic",
+    "href": "miles/index.html#latest-comic",
+    "title": "Vivek Yadav",
+    "section": "Latest comic",
+    "text": "Latest comic\n\n\n\n  \n    \n  \n  \n    \n    \n      Episode 10\n      AI Systems and Architecture\n    \n    \n    Model Context Protocol\n    An open standard that helps AI models connect safely to tools, data, and systems.\n    \n    \n      Difficulty: Intermediate\n      \n    \n    \n    \n      Read the comic\n      \n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "miles/index.html#library",
+    "href": "miles/index.html#library",
+    "title": "Vivek Yadav",
+    "section": "Comic library",
+    "text": "Comic library\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Episode (Low to High)\n      \n      \n        Episode (High to Low)\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n  \n  \n    Topic\n    All\n    Getting StartedAI FundamentalsWorking with LLMsAI Systems and ArchitectureAI Agents and Applications\n  \n  \n  \n  \n    Difficulty\n    All\n    BeginnerIntermediate\n  \n  \n\n\n\n  \n    \n      \n      \n        \n          Episode 10\n          AI Systems and Architecture\n        \n        Model Context Protocol\n        An open standard that helps AI models connect safely to tools, data, and systems.\n        \n        \n          Difficulty: Intermediate\n          \n        \n        \n      \n    \n  \n\n  \n    \n      \n      \n        \n          Episode 9\n          AI Agents and Applications\n        \n        AI Agents\n        Your goals. Their mission.\n        \n        \n          Difficulty: Intermediate\n          \n        \n        \n      \n    \n  \n\n  \n    \n      \n      \n        \n          Episode 8\n          AI Fundamentals\n        \n        Transformers\n        The game changers behind modern AI!\n        \n        \n          Difficulty: Intermediate\n          \n        \n        \n      \n    \n  \n\n  \n    \n      \n      \n        \n          Episode 7\n          Working with LLMs\n        \n        Prompt Engineering\n        The secret sauce behind great AI answers!\n        \n        \n          Difficulty: Beginner\n          \n        \n        \n      \n    \n  \n\n  \n    \n      \n      \n        \n          Episode 6\n          Working with LLMs\n        \n        Temperature\n        The creativity dial for AI answers!\n        \n        \n          Difficulty: Beginner\n          \n        \n        \n      \n    \n  \n\n  \n    \n      \n      \n        \n          Episode 5\n          AI Systems and Architecture\n        \n        Retrieval Augmented Generation\n        RAG combines the power of search (retrieval) with the power of LLMs (generation).\n        \n        \n          Difficulty: Intermediate\n          \n        \n        \n      \n    \n  \n\n  \n    \n      \n      \n        \n          Episode 4\n          Working with LLMs\n        \n        Hallucination\n        When AI confidently makes stuff up!\n        \n        \n          Difficulty: Beginner\n          \n        \n        \n      \n    \n  \n\n  \n    \n      \n      \n        \n          Episode 3\n          AI Fundamentals\n        \n        Context Window\n        The model's working memory!\n        \n        \n          Difficulty: Beginner\n          \n        \n        \n      \n    \n  \n\n  \n    \n      \n      \n        \n          Episode 2.1\n          AI Agents and Applications\n        \n        Vibe Coding\n        Ship first. Understand later.\n        \n        \n          Difficulty: Beginner\n          \n        \n        \n      \n    \n  \n\n  \n    \n      \n      \n        \n          Episode 2\n          AI Fundamentals\n        \n        Text Embeddings\n        The secret sauce that turns words into meaningful numbers!\n        \n        \n          Difficulty: Beginner\n          \n        \n        \n      \n    \n  \n\n  \n    \n      \n      \n        \n          Episode 1\n          AI Fundamentals\n        \n        Tokens\n        The building blocks of LLMs.\n        \n        \n          Difficulty: Beginner\n          \n        \n        \n      \n    \n  \n\n  \n    \n      \n      \n        \n          Episode 0\n          Getting Started\n        \n        Meet Miles\n        Hi there! I'm Miles. Part robot. Part road nerd. 100% data driven.\n        \n        \n          Difficulty: Beginner\n          \n        \n        \n      \n    \n  \n\n\nNo comics match these filters yet.\n\n\nNo matching items"
+  },
+  {
+    "objectID": "miles/index.html#about-miles",
+    "href": "miles/index.html#about-miles",
+    "title": "Vivek Yadav",
+    "section": "About Miles",
+    "text": "About Miles\nMiles was created to make artificial intelligence more approachable. The idea is simple: explain one AI concept at a time using visual storytelling, relatable examples and humor.\nThe comics are developed with the assistance of generative AI tools, with concepts, storytelling and editorial direction guided by the creator.\nBrainchild of vivekyadav | Explained by Miles\nMore about me"
+  },
+  {
+    "objectID": "notebook/index.html",
+    "href": "notebook/index.html",
+    "title": "Notebook",
+    "section": "",
+    "text": "Skip to main content\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n  \n    \n      Day 00\n      Nov 25, 2026\n      Perspective\n      1 min read\n    \n    Day 00: Why 30 Days of LLMs in Travel Demand Modeling?\n    In progress.\n    \n    Part of 30 Days of LLMs in Travel Demand Modeling\n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Questions I am trying to answer.",
+    "section": "",
+    "text": "Skip to main content"
+  },
+  {
+    "objectID": "research/index.html#research-initiatives",
+    "href": "research/index.html#research-initiatives",
+    "title": "Questions I am trying to answer.",
+    "section": "Research initiatives",
+    "text": "Research initiatives\n\n\n\n  \n    Active\n    30 Days of LLMs in Travel Demand Modeling\n    An open research journal exploring whether large language models can improve existing travel demand models or help us rethink them entirely.\n  \n\n\nNo matching items"
+  }
+]

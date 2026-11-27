@@ -1,0 +1,76 @@
+[
+  {
+    "listing": "/research/llms-in-tdm/index.html",
+    "items": [
+      "/research/llms-in-tdm/day-00/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/miles/learn/index.html",
+    "items": [
+      "/miles/comics/ai-agents/index.html",
+      "/miles/comics/context-window/index.html",
+      "/miles/comics/hallucination/index.html",
+      "/miles/comics/meet-miles/index.html",
+      "/miles/comics/mcp/index.html",
+      "/miles/comics/prompt-engineering/index.html",
+      "/miles/comics/rag/index.html",
+      "/miles/comics/temperature/index.html",
+      "/miles/comics/text-embeddings/index.html",
+      "/miles/comics/tokens/index.html",
+      "/miles/comics/transformers/index.html",
+      "/miles/comics/vibe-coding/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/research/llms-in-tdm/day-00/index.html",
+      "/miles/comics/ai-agents/index.html",
+      "/miles/comics/context-window/index.html",
+      "/miles/comics/hallucination/index.html",
+      "/miles/comics/meet-miles/index.html",
+      "/miles/comics/mcp/index.html",
+      "/miles/comics/prompt-engineering/index.html",
+      "/miles/comics/rag/index.html",
+      "/miles/comics/temperature/index.html",
+      "/miles/comics/text-embeddings/index.html",
+      "/miles/comics/tokens/index.html",
+      "/miles/comics/transformers/index.html",
+      "/miles/comics/vibe-coding/index.html"
+    ]
+  },
+  {
+    "listing": "/miles/index.html",
+    "items": [
+      "/miles/comics/ai-agents/index.html",
+      "/miles/comics/context-window/index.html",
+      "/miles/comics/hallucination/index.html",
+      "/miles/comics/meet-miles/index.html",
+      "/miles/comics/mcp/index.html",
+      "/miles/comics/prompt-engineering/index.html",
+      "/miles/comics/rag/index.html",
+      "/miles/comics/temperature/index.html",
+      "/miles/comics/text-embeddings/index.html",
+      "/miles/comics/tokens/index.html",
+      "/miles/comics/transformers/index.html",
+      "/miles/comics/vibe-coding/index.html"
+    ]
+  },
+  {
+    "listing": "/notebook/index.html",
+    "items": [
+      "/research/llms-in-tdm/day-00/index.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/llms-in-tdm/index.html"
+    ]
+  }
+]
